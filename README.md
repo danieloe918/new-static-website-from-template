@@ -1,4 +1,4 @@
 # new-static-website-from-template
-Static website from template repository
+First created static website for Portfolio
 
 Portfolio
